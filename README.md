@@ -1,1 +1,1 @@
-SMS spam classifier project
+Spam SMS Classifier Project
